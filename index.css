@@ -1,0 +1,14 @@
+.outter {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.left {
+    height: 100vh;
+    background: blue;
+}
+
+.right {
+    height: 100vh;
+    background: red;
+}
